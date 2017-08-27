@@ -1,0 +1,12 @@
+2017-08-27 15:20:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "WORDS" nie istnieje
+Table "WORDS" not found; SQL statement:
+DROP TABLE `WORDS`  [42102-193]
+2017-08-27 15:20:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "TOPLIST" nie istnieje
+Table "TOPLIST" not found; SQL statement:
+DROP TABLE `TOPLIST`  [42102-193]
+2017-08-27 15:20:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+DROP TABLE `CATEGORIES`  [42102-193]
